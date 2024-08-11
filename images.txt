@@ -1,1 +1,1 @@
-michaelbui/sillytavern
+michaelbui/sillytavern:main
