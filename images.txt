@@ -1,1 +1,1 @@
-ghcr.io/open-webui/pipelines:main
+ghcr.io/open-webui/open-webui:main
