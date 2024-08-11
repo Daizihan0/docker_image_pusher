@@ -1,1 +1,1 @@
-docker run -d -p 9099:9099 --add-host=host.docker.internal:host-gateway -v pipelines:/app/pipelines --name pipelines --restart always ghcr.io/open-webui/pipelines:main
+ghcr.io/open-webui/pipelines:main
