@@ -1,2 +1,2 @@
-ghcr.io/snailyp/gemini-balance:latest
+calciumion/new-api:latest
 ghcr.io/open-webui/open-webui:main
