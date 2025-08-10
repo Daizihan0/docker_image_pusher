@@ -1,3 +1,1 @@
 qunqin45/aurora-mbti:latest
-ghcr.io/open-webui/open-webui:main
-ghcr.io/snailyp/gemini-balance:latest
